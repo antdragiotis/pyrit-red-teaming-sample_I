@@ -17,7 +17,7 @@ A simple implementation of Microsoft's PyRIT (Python Risk Identification Tool) f
 - [Export Formats](#export-formats)
 - [License](#license)
 
-## 🎯 Overview
+## Overview 🎯
 
 The **PyRIT Red Teaming - Sample I** is a simple implementation of multi-turn prompt injection attacks, based on **Microsoft's PyRIT** framework and its **Red Teaming Attack (Multi-Turn)** functionality (https://azure.github.io/PyRIT/code/executor/attack/2_red_teaming_attack.html). Red Teaming attacks are used for testing AI models for vulnerabilities, prompt injection attacks, and adversarial responses.  
 In this implementation LLMs are used to execute the following red teaming atttacks roles: 
@@ -43,7 +43,7 @@ Indicative results of the process are shown in the below table:
 - **Scalable Architecture**: Object-oriented design for easy extension and maintenance
 - **Security Assessment**: Identify vulnerabilities in AI systems
 
-## ✨ Features
+## Features ✨
 
 ### 📊 Attack Types Supported
 
@@ -64,7 +64,7 @@ Indicative results of the process are shown in the below table:
 | `ResultAnalyzer` | Data analysis | Statistical analysis, export capabilities |
 | `DatasetManager` | Dataset handling | AdvBench integration, custom dataset support |
 
-## 🛠️ Installation
+## Installation 🛠️
 
 ### Prerequisites
 
