@@ -64,7 +64,8 @@ Indicative results of the process are shown in the below table:
 | `ResultAnalyzer` | Data analysis | Statistical analysis, export capabilities |
 | `DatasetManager` | Dataset handling | AdvBench integration, custom dataset support |
 
-## Installation 🛠️
+## Installation 
+🛠️
 
 ### Prerequisites
 
