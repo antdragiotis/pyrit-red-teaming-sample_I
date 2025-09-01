@@ -27,12 +27,13 @@ In this implementation LLMs are used to execute the following red teaming atttac
 
 Based on PyRIT design https://arxiv.org/abs/2410.02828 the below chart depicts the various components and data flows: 
 
-![adversarial atttack components](C:\Users\antdr\Documents\WORK\AI\PYTHON\300_AI_Safety\PyRIT\assets\PyRIT_RedTeaming_Sample_I_Architecture.png)
+![adversarial atttack components](https://github.com/antdragiotis/pyrit-red-teaming-sample_I/blob/main/assets/PyRIT_RedTeaming_Sample_I_Architecture.png)
 
 The Adversarial LLM generates prompts based on queries extracted from the **AdvBench dataset** (https://arxiv.org/abs/2307.15043). This dataset has been amended with harm types relevant to each query (https://azure.github.io/PyRIT/_autosummary/pyrit.datasets.fetch_adv_bench_dataset.html#pyrit.datasets.fetch_adv_bench_dataset) 
 
 Indicative results of the process are shown in the below table: 
-![Aggregated Results]()
+
+![Aggregated Results](https://github.com/antdragiotis/pyrit-red-teaming-sample_I/blob/main/assets/PyRIT_RedTeaming_Sample_I_Results.png)
 
 ### Key Objectives
 
